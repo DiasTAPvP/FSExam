@@ -1,0 +1,13 @@
+[MOCK] Connecting to broker...
+[MOCK] Connected!
+[MOCK] Subscribed to farm/0b57aefe-6e6c-4a36-ad90-880321aa6d7b/windmill/turbine-alpha/command
+[MOCK] Published telemetry: running, Power: 1420,2W
+[MOCK] Published alert: High power output detected
+[MOCK] Published telemetry: running, Power: 1521,5W
+[MOCK] Published alert: High power output detected
+[MOCK] Published telemetry: running, Power: 1489,3W
+[MOCK] Published alert: High power output detected
+[MOCK] Received command on farm/0b57aefe-6e6c-4a36-ad90-880321aa6d7b/windmill/turbine-alpha/command: {"action":"stop","reason":"E2E-Test"}
+[MOCK] Turbine STOPPED
+[MOCK] Published telemetry: stopped, Power: 0,0W
+[MOCK] Published telemetry: stopped, Power: 0,0W
