@@ -1,5 +1,5 @@
 ﻿
-# Døde Duer
+# Windmill IoT Dashboard - Fullstack Exam Project
 
 ## Overview
 ### What this project does
